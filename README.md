@@ -1,2 +1,2 @@
 # linear_regression_single_variable
-Build a regression model and Predict the per capita income of canadian citizens in year 2020
+Build a machine learning model using linear regression and Predict the per capita income of canadian citizens in year 2020
